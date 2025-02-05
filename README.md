@@ -17,7 +17,7 @@ The dataset consists of data from approximately **1,250 games** across these lea
 
 ## 📂 Project Structure  
 
-📦 sports-betting-trends  
+📦 SportsBettingProject  
  ┣ 📂 data  
  ┃ ┣ 📜 [NFL Data](data/nfl_data.csv) - Betting data for the NFL  
  ┃ ┣ 📜 [NBA Data](data/nba_data.csv) - Betting data for the NBA  
