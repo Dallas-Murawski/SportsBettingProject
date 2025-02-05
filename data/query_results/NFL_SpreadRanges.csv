@@ -1,0 +1,14 @@
+Spread_Range,Total_Games,Positive_Cover_Percentage,Negative_Cover_Percentage,Both_Cover_Percentage
+under 2 points,6,50.00,50.00,0.00
+between 2 and 3 points,9,55.56,44.44,0.00
+between 3 and 4 points,13,23.08,69.23,7.69
+between 4 and 5 points,4,50.00,50.00,0.00
+between 5 and 6 points,6,16.67,83.33,0.00
+between 6 and 7 points,7,28.57,57.14,14.29
+between 7 and 8 points,5,40.00,60.00,0.00
+between 8 and 9 points,4,25.00,75.00,0.00
+between 9 and 10 points,3,0.00,100.00,0.00
+between 10 and 12.5 points,1,0.00,100.00,0.00
+between 12.5 and 15 points,2,50.00,50.00,0.00
+between 15 and 17.5 points,1,0.00,100.00,0.00
+over 20 points,1,0.00,100.00,0.00
