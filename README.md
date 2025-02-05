@@ -42,7 +42,7 @@ The dataset consists of data from approximately **1,250 games** across these lea
 ## 📊 Key Insights  
 Some of the trends analyzed in this project include:  
 ✔️ How often betting lines (Over/Under, Spread, Moneyline) beat expectations  
-✔️ League-specific trends in betting accuracy and profitability  
+✔️ League-specific trends in betting accuracy and performance
 ✔️ How different teams perform against the spread  
 
 More details and insights can be found in the **Tableau Story** linked above.  
@@ -50,16 +50,16 @@ More details and insights can be found in the **Tableau Story** linked above.
 ---
 
 ## 📥 Getting Started  
-1. Download the **.twbx** file to explore the dashboards interactively in Tableau Desktop.  
+1. **Download the .twbx file** to explore the dashboards interactively in Tableau Desktop, or click on the link in the Project Overview section above to view the interactive Tableau Story online.  
 2. Open the SQL scripts to see how data was processed and analyzed.  
-3. Feel free to use the CSV data for further analysis!  
+3. Feel free to use the CSV data for further analysis!
+ 
 
 ---
 
 ## 🔗 Connect with Me  
-For questions or feedback, feel free to reach out:  
-📧 [Your Email] | 🔗 [Your LinkedIn](YOUR-LINKEDIN-HERE)  
+For questions or feedback, feel free to reach out:
 
----
+📧 [Email](dallasmurawski@gmail.com)
 
-Would you like any modifications or additional sections? 🚀  
+🔗 [LinkedIn](https://www.linkedin.com/in/dallas-murawski)  
