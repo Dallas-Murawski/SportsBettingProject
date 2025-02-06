@@ -19,9 +19,8 @@ The dataset consists of data from approximately **1,250 games** across these lea
 
 📦 SportsBettingProject  
  ┣ 📂 data  
- ┃ ┣ 📜 [NFL Data](data/nfl_data.csv) - Betting data for the NFL  
- ┃ ┣ 📜 [NBA Data](data/nba_data.csv) - Betting data for the NBA  
- ┃ ┣ 📜 [CBB Data](data/cbb_data.csv) - Betting data for Men's College Basketball  
+ ┃ ┣ 📂 [Query Results](data/query_results/) - A folder containing tables that were outputted by running queries on the raw data.  
+ ┃ ┣ 📂 [Raw Data](data/raw_data/) - Betting data for the NBA  
  ┣ 📂 sql_scripts  
  ┃ ┣ 📜 [Data Collection SQL](sql_scripts/data_collection.sql) - SQL scripts for gathering and cleaning data  
  ┃ ┣ 📜 [Analysis Queries SQL](sql_scripts/analysis_queries.sql) - Queries used to analyze betting trends  
