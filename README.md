@@ -21,11 +21,13 @@ The dataset consists of data from approximately **1,250 games** across these lea
  ┣ 📂 data  
  ┃ ┣ 📂 [Query Results](data/query_results/) - A folder containing tables that were outputted by running queries on the raw data.  
  ┃ ┣ 📂 [Raw Data](data/raw_data/) - A folder containing the raw data. There are three tables, one for each different betting type.
+ 
  ┣ 📂 sql_code  
  ┃ ┣ 📂 [Inserted Data](sql_code/inserted_data/) - A folder containing three text files with the code used to insert all of the raw data.  
- ┃ ┣ 📂 [Query Code](sql_code/query_code/) - Queries used to analyze betting trends  
+ ┃ ┣ 📜 [Query Code](sql_code/WrittenQueries.rtf) - A text file containing the code for all queries ran. 
+ 
  ┣ 📂 tableau  
- ┃ ┣ 📜 [Tableau Story](tableau/betting_trends.twbx) - Interactive Tableau dashboard with 8 dashboards  
+ ┃ ┣ 📜 [Tableau Story](tableau/Sports-Betting-Project.twbx) - Interactive Tableau dashboard with 8 dashboards  
  ┃ ┣ 📜 [Tableau Overview](tableau/README.md) - Explanation of the Tableau story and insights  
  ┣ 📜 [README](README.md) - Main project documentation (this file)  
 
