@@ -41,7 +41,7 @@ The dataset consists of data from approximately **1,250 games** across these lea
 ## 📊 Key Insights  
 Some of the trends analyzed in this project include:  
 ✔️ How often betting lines (Over/Under, Spread, Moneyline) hit  
-✔️ League-specific trends in betting accuracy and performance
+✔️ League-specific trends in betting accuracy and performance   
 ✔️ How teams perform in different areas  
 
 More details and insights can be found in the **Tableau Story** linked above.  
