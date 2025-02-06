@@ -20,10 +20,10 @@ The dataset consists of data from approximately **1,250 games** across these lea
 📦 SportsBettingProject  
  ┣ 📂 data  
  ┃ ┣ 📂 [Query Results](data/query_results/) - A folder containing tables that were outputted by running queries on the raw data.  
- ┃ ┣ 📂 [Raw Data](data/raw_data/) - Betting data for the NBA  
- ┣ 📂 sql_scripts  
- ┃ ┣ 📜 [Data Collection SQL](sql_scripts/data_collection.sql) - SQL scripts for gathering and cleaning data  
- ┃ ┣ 📜 [Analysis Queries SQL](sql_scripts/analysis_queries.sql) - Queries used to analyze betting trends  
+ ┃ ┣ 📂 [Raw Data](data/raw_data/) - A folder containing the raw data. There are three tables, one for each different betting type.
+ ┣ 📂 sql_code  
+ ┃ ┣ 📂 [Inserted Data](sql_code/inserted_data/) - A folder containing three text files with the code used to insert all of the raw data.  
+ ┃ ┣ 📂 [Query Code](sql_code/query_code/) - Queries used to analyze betting trends  
  ┣ 📂 tableau  
  ┃ ┣ 📜 [Tableau Story](tableau/betting_trends.twbx) - Interactive Tableau dashboard with 8 dashboards  
  ┃ ┣ 📜 [Tableau Overview](tableau/README.md) - Explanation of the Tableau story and insights  
