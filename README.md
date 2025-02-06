@@ -19,17 +19,17 @@ The dataset consists of data from approximately **1,250 games** across these lea
 
 📦 SportsBettingProject  
  ┣ 📂 data  
- ┃ ┣ 📂 [Query Results](data/query_results/) - A folder containing tables that were outputted by running queries on the raw data.  
- ┃ ┣ 📂 [Raw Data](data/raw_data/) - A folder containing the raw data. There are three tables, one for each different betting type.
+ ┃ ┣ 📂 [Query Results](data/query_results/) - A folder containing tables that were outputted by running queries on the raw data  
+ ┃ ┣ 📂 [Raw Data](data/raw_data/) - A folder containing the raw data
  
  ┣ 📂 sql_code  
- ┃ ┣ 📂 [Inserted Data](sql_code/inserted_data/) - A folder containing three text files with the code used to insert all of the raw data.  
- ┃ ┣ 📜 [Query Code](sql_code/WrittenQueries.rtf) - A text file containing the code for all queries ran. 
+ ┃ ┣ 📂 [Inserted Data](sql_code/inserted_data/) - A folder containing three text files with the code used to insert all of the raw data  
+ ┃ ┣ 📜 [Query Code](sql_code/WrittenQueries.rtf) - A text file containing the code for all queries ran 
  
  ┣ 📂 tableau  
- ┃ ┣ 📜 [Tableau Story](<tableau/Sports Betting Project.twbx>) - Interactive Tableau dashboard with 8 dashboards  
- ┃ ┣ 📜 [Tableau Overview](tableau/README.md) - Explanation of the Tableau story and insights  
- ┣ 📜 [README](README.md) - Main project documentation (this file)  
+ ┃ ┣ 📜 [Tableau Story](<tableau/Sports Betting Project.twbx>) - Interactive Tableau Story with 8 dashboards  
+ ┃ ┣ 📜 [Tableau Overview](tableau/tableau_overview.md) - Explanation of the Tableau Story 
+ ┣ 📜 [README](README.md) - Main project documentation (this file)
 
 
 ---
@@ -42,16 +42,16 @@ The dataset consists of data from approximately **1,250 games** across these lea
 
 ## 📊 Key Insights  
 Some of the trends analyzed in this project include:  
-✔️ How often betting lines (Over/Under, Spread, Moneyline) beat expectations  
+✔️ How often betting lines (Over/Under, Spread, Moneyline) hit  
 ✔️ League-specific trends in betting accuracy and performance
-✔️ How different teams perform against the spread  
+✔️ How teams perform in different areas  
 
 More details and insights can be found in the **Tableau Story** linked above.  
 
 ---
 
 ## 📥 Getting Started  
-1. **Download the .twbx file** to explore the dashboards interactively in Tableau Desktop, or click on the link in the Project Overview section above to view the interactive Tableau Story online.  
+1. **Download the .twbx file** to explore the dashboards interactively in Tableau Desktop, or click on the link in the **Project Overview** section above to view the interactive Tableau Story online.  
 2. Open the SQL scripts to see how data was processed and analyzed.  
 3. Feel free to use the CSV data for further analysis!
  
