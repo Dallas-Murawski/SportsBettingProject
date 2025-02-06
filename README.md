@@ -27,7 +27,7 @@ The dataset consists of data from approximately **1,250 games** across these lea
  ┃ ┣ 📜 [Query Code](sql_code/WrittenQueries.rtf) - A text file containing the code for all queries ran. 
  
  ┣ 📂 tableau  
- ┃ ┣ 📜 [Tableau Story](tableau/<Sports Betting Project.twbx>) - Interactive Tableau dashboard with 8 dashboards  
+ ┃ ┣ 📜 [Tableau Story](<tableau/Sports Betting Project.twbx>) - Interactive Tableau dashboard with 8 dashboards  
  ┃ ┣ 📜 [Tableau Overview](tableau/README.md) - Explanation of the Tableau story and insights  
  ┣ 📜 [README](README.md) - Main project documentation (this file)  
 
